@@ -26,13 +26,14 @@
 		<connection>scm:git:ssh://github.com:aileben/common-utils.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:aileben/common-utils.git</developerConnection>
 	</scm>
+	
 	<distributionManagement>
 		<repository>
-			<id>snapshots</id>
+			<id>Snapshots</id>
 			<url>https://oss.sonatype.org/content/repositories/snapshots/</url>
 		</repository>
 		<snapshotRepository>
-			<id>snapshots</id>
+			<id>Snapshots</id>
 			<url>https://oss.sonatype.org/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
