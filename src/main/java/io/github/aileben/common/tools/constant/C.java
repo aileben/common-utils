@@ -8,11 +8,6 @@ public class C {
 	public final static String R = "M.properties";
 	
 	/**
-	 * JWT其他配置
-	 */
-	public final static String JWT = "token.properties";
-	
-	/**
 	 * 成功
 	 */
 	public final static int TYPE_RESULT_SUCCESS = 1;
