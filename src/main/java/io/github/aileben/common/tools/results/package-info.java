@@ -1,0 +1,1 @@
+package io.github.aileben.common.tools.results;
