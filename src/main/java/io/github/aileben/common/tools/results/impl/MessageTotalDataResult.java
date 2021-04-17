@@ -1,5 +1,8 @@
 package io.github.aileben.common.tools.results.impl;
 
+/**
+ * @author fengyupeng
+ */
 public class MessageTotalDataResult<E> extends MessageResult {
 
 	private static final long serialVersionUID = -5011452050161829717L;
