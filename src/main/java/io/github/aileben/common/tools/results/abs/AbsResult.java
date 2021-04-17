@@ -1,8 +1,8 @@
 package io.github.aileben.common.tools.results.abs;
 
-import java.util.UUID;
-
 import io.github.aileben.common.tools.results.Result;
+
+import java.util.UUID;
 
 /**
  * 抽象结果集，用户返回json格式数据，
